@@ -1,0 +1,9 @@
+bin/
+lib/
+lib64/
+share/
+
+*.lock
+*.TAG
+
+pyvenv.cfg
